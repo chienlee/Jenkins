@@ -119,11 +119,12 @@ body {
 #projectstatus th:first-child {
     padding: 0 !important;
     width: 20px !important;
+    border-radius: 10px;
 }
 /* Hide first project table header cell contents */
-#projectstatus th:first-child * {
+/*#projectstatus th:first-child * {
     display: none;
-}
+}*/
 /* Base styling for project status project table cell, gray background by default to catch all project status states */
 #projectstatus td:first-child {
     border-left: 1px solid #E6E6E6;
@@ -136,7 +137,7 @@ body {
 }
 /* Error state (red) styling for project table */
 #projectstatus td:first-child[data="0"] {
-    background-color: #FF0000 !important;
+    background-color: #CC0000 !important;
 }
 /* Building state (orange stripes) styling for main project table and build process table on left side */
 #projectstatus td:first-child[data="1"],
@@ -146,7 +147,7 @@ table.progress-bar.red td.progress-bar-done{
 }
 /* Success state (green) styling for project table */
 #projectstatus td:first-child[data="4"] {
-    background-color: #58F600 !important;
+    background-color: #92CD00 !important;
 }
 /* Building state (orange stripes) styling for build process table on left side */
 table.progress-bar.red td.progress-bar-done {
