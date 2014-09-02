@@ -15,7 +15,7 @@ body {
     width: 154px !important;
     height: 34px !important;
     background: url("http://www.qnap.com/i/images/qnaplogo.png") no-repeat;
-    margin-top: 16px;
+    margin-top: 8px;
     cursor: pointer;
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 #breadcrumbs {
-    padding: 5px 0 5px 8px !important;
+    padding: 5px 0 8px 8px !important;
     color: #888 !important;
     text-decoration: none;
     text-shadow: 0 1px #fff;
