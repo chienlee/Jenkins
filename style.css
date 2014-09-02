@@ -68,7 +68,7 @@ body {
 }
 
 #main-panel-content div:first-of-type {
-    background-color: #FFFFFF !important;
+    background-color: transparent !important;
 }
 
 #side-panel .task-link {
@@ -77,19 +77,20 @@ body {
     font-family: sans-serif;
 }
 
-#dashboard .a {
+.dashboard a {
     color: #333;
+    font-weight: bold;
     font-family: sans-serif;
 }
 
 #buildQueue {
-    background-color: #FFFFFF;
-    border-radius: 3px;
+    background-color: #B6C0D2;
+    border-radius: 5px;
 }
 
 #executer {
-    background-color: #FFFFFF;
-    border-radius: 3px;
+    background-color: #B6C0D2;
+    border-radius: 5px;
 }
 
 .bottom-sticker-edge {
