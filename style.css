@@ -61,20 +61,35 @@ body {
 }
 
 #breadcrumbs {
-    padding: 5px 4px 5px 4px !important;
+    /*padding: 5px 4px 5px 4px !important;*/
     color: #888 !important;
     text-decoration: none;
     text-shadow: 0 1px #fff;
 }
 
 #main-panel-content div:first-of-type {
-    background-color: transparent !important;
+    background-color: #FFFFFF !important;
 }
 
 #side-panel .task-link {
     color: #333;
     font-weight: bold;
-    font-family: fantasy;
+    font-family: sans-serif;
+}
+
+#dashboard .a {
+    color: #333;
+    font-family: sans-serif;
+}
+
+#buildQueue {
+    background-color: #FFFFFF;
+    border-radius: 3px;
+}
+
+#executer {
+    background-color: #FFFFFF;
+    border-radius: 3px;
 }
 
 .bottom-sticker-edge {
@@ -96,8 +111,8 @@ body {
 /* Style project table header links */
 #projectstatus th a {
     color: #999999;
-    font-weight: bold;
-    font-family: fantasy;
+    font-weight: normal;
+    font-family: sans-serif;
 }
 
 #projectstatus th a:hover {
