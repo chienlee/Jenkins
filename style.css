@@ -115,7 +115,13 @@ body {
 }
 
 #projectstatus th a:hover {
-    color: #003366;
+    color: #666666;
+}
+
+a:visited {
+    text-decoration: underline;
+    font-weight: normal;
+    color: #5c3566;
 }
 /* Reduce size of first project table header cell to setup status stripes */
 /*#projectstatus th:first-child {
