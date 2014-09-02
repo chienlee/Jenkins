@@ -35,11 +35,11 @@ body {
 #header,
 #footer-container {
     background: none repeat scroll 0 0 #333333 !important;
-    color: #999999;
+    color: #003366;
 }
 
 #footer-container a {
-    color: #999999;
+    color: #003366;
 }
 
 #breadcrumbBar {
