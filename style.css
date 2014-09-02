@@ -78,17 +78,17 @@ body {
 }
 
 #buildQueue {
-    background-color: #B6C0D2;
+    background-color: #FFFFFF;
     border-radius: 5px;
-    border-style:ridge;
+    border-style:solid;
     border-size: 5px;
     border-color: #FFFFFF;
 }
 
 #executer {
-    background-color: #B6C0D2;
+    background-color: #FFFFFF;
     border-radius: 5px;
-    border-style:ridge;
+    border-style:solid;
     border-size: 5px;
     border-color: #FFFFFF;
 }
