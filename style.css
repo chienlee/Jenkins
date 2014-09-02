@@ -40,7 +40,8 @@ body {
 
 #header,
 #footer-container {
-    background: none repeat scroll 0 0 #000000 !important;
+    /*background: none repeat scroll 0 0 #FF6600 !important;*/
+    background-color: #000000;
     color: #FFFFFF;
 }
 
