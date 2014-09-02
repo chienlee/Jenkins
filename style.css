@@ -12,8 +12,8 @@ body {
 }
 
 .logo {
-    width: 154px !important;
-    height: 34px !important;
+    width: 200px !important;
+    height: 50px !important;
     background: url("http://www.qnap.com/i/images/qnaplogo.png") no-repeat;
     margin-top: 8px;
     cursor: pointer;
@@ -24,7 +24,7 @@ body {
 }
 
 #header {
-    background-color: #003366;
+    background-color: #336699;
 }
 
 #header .login {
@@ -38,7 +38,7 @@ body {
 
 #header,
 #footer-container {
-    background: none repeat scroll 0 0 #333333 !important;
+    background: none repeat scroll 0 0 #336699 !important;
     color: #FFFFFF;
 }
 
