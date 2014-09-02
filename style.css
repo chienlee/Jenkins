@@ -5,7 +5,7 @@
  */
 
 body {
-    font-family: "Helvetica Neue",sans-serif !important;
+    font-family: "sans-serif", Helvetica Neue !important;
     font-size: 13px !important;
     line-height: 20px !important;
 }
@@ -63,6 +63,8 @@ body {
 #breadcrumbs {
     /*padding: 5px 4px 5px 4px !important;*/
     color: #1C263C !important;
+    font-weight: bold;
+    font-family: sans-serif;
     text-decoration: none;
     text-shadow: 0 1px #fff;
 }
@@ -79,18 +81,18 @@ body {
 
 #buildQueue {
     background-color: #FFFFFF;
-    border-radius: 5px;
+    border-radius: 8px;
     border-style:solid;
-    border-size: 10px;
-    border-color: #FFFFFF;
+    border-size: 20px;
+    border-color: #313C53;
 }
 
-#executer {
+#executor {
     background-color: #FFFFFF;
-    border-radius: 5px;
+    border-radius: 8px;
     border-style:solid;
-    border-size: 10px;
-    border-color: #FFFFFF;
+    border-size: 20px;
+    border-color: #313C53;
 }
 
 .bottom-sticker-edge {
