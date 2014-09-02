@@ -5,7 +5,7 @@
  */
 
 body {
-    font-family: "sans-serif", Helvetica Neue !important;
+    font-family: "Helvetica Neue", sans-serif !important;
     font-size: 13px !important;
     line-height: 20px !important;
 }
@@ -83,16 +83,16 @@ body {
     background-color: #FFFFFF;
     border-radius: 8px;
     border-style:solid;
-    border-size: 20px;
-    border-color: #313C53;
+    border-size: 10px;
+    border-color: #455268;
 }
 
-#executor {
+#executors {
     background-color: #FFFFFF;
     border-radius: 8px;
     border-style:solid;
-    border-size: 20px;
-    border-color: #313C53;
+    border-size: 10px;
+    border-color: #455268;
 }
 
 .bottom-sticker-edge {
