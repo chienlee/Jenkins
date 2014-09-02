@@ -73,7 +73,7 @@ body {
 }
 
 #main-panel-content div:first-of-type {
-    background-color: transparent !important;
+    background-color: #FFFFFF !important;
 }
 
 #side-panel .task-link {
