@@ -44,6 +44,7 @@ body {
 }
 
 #footer-container a {
+    font-weight: normal;
     color: #FFFFFF;
 }
 
@@ -109,8 +110,7 @@ body {
 }
 /* Style project table header links */
 #projectstatus th a {
-    color: #999999;
-    font-weight: normal;
+    color: #003366;
     font-family: sans-serif;
 }
 
