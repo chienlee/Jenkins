@@ -14,4 +14,7 @@ document.observe("dom:loaded", function () {
     }
     // Click logo, go home.
     $$('div.logo')[0].on('click', function(){ location = '/'; });
+    
+    
+    $$('div.top-sticker-inner')[0].on('click', function(){ location = 'http://www.google.com'; });
 });
