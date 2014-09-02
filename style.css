@@ -14,7 +14,7 @@ body {
 .logo {
     width: 154px !important;
     height: 34px !important;
-    background: url("Qnap.png") no-repeat;
+    background: url("http://www.qnap.com/i/images/qnaplogo.png") no-repeat;
     margin-top: 16px;
     cursor: pointer;
 }
