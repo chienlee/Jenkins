@@ -51,18 +51,18 @@ body {
 }
 
 .top-sticker-inner {
-    background: none repeat scroll 0 0 #FFFFFF !important;
+    /*background: none repeat scroll 0 0 #FFFFFF !important;*/
     box-shadow: #c2c2c2 0 3px 8px 1px;
 }
 
 #breadcrumbs LI:hover, A.breadcrumbBarAnchor.mouseIsOverMenuSelector {
-    background-color: transparent !important;
+    /*background-color: transparent !important;*/
     color: #333 !important;
 }
 
 #breadcrumbs {
     /*padding: 5px 4px 5px 4px !important;*/
-    color: #888 !important;
+    color: #1C263C !important;
     text-decoration: none;
     text-shadow: 0 1px #fff;
 }
