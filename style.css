@@ -70,7 +70,7 @@ body {
 }
 
 #main-panel-content div:first-of-type {
-    background-color: #B6C0D2 !important;
+    background-color: transparent !important;
 }
 
 #side-panel .task-link {
