@@ -121,7 +121,7 @@ body {
 }
 /* Error state (red) styling for project table */
 #projectstatus td:first-child[data="0"] {
-    background-color: #C40022 !important;
+    background-color: #FF0000 !important;
 }
 /* Building state (orange stripes) styling for main project table and build process table on left side */
 #projectstatus td:first-child[data="1"],
@@ -131,7 +131,7 @@ table.progress-bar.red td.progress-bar-done{
 }
 /* Success state (green) styling for project table */
 #projectstatus td:first-child[data="4"] {
-    background-color: #00A96D !important;
+    background-color: #3ca900 !important;
 }
 /* Building state (orange stripes) styling for build process table on left side */
 table.progress-bar.red td.progress-bar-done {
