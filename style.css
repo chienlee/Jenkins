@@ -77,20 +77,20 @@ body {
     font-family: sans-serif;
 }
 
-.dashboard a {
-    color: #333;
-    font-weight: bold;
-    font-family: sans-serif;
-}
-
 #buildQueue {
     background-color: #B6C0D2;
     border-radius: 5px;
+    border-style:ridge;
+    border-size: 5px;
+    border-color: #FFFFFF;
 }
 
 #executer {
     background-color: #B6C0D2;
     border-radius: 5px;
+    border-style:ridge;
+    border-size: 5px;
+    border-color: #FFFFFF;
 }
 
 .bottom-sticker-edge {
