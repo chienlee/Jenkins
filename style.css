@@ -110,12 +110,12 @@ body {
 }
 /* Style project table header links */
 #projectstatus th a {
-    color: #003366;
+    color: #666666;
     font-family: sans-serif;
 }
 
 #projectstatus th a:hover {
-    color: #666666;
+    color: #003366;
 }
 /* Reduce size of first project table header cell to setup status stripes */
 /*#projectstatus th:first-child {
