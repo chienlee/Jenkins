@@ -15,7 +15,7 @@ body {
     width: 154px !important;
     height: 34px !important;
     background: url("http://www.qnap.com/i/images/qnaplogo.png") no-repeat;
-    margin-top: 8px;
+    margin-top: 9px;
     cursor: pointer;
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 #breadcrumbs {
-    padding: 5px 0 8px 8px !important;
+    padding: 5px 4px 5px 4px !important;
     color: #888 !important;
     text-decoration: none;
     text-shadow: 0 1px #fff;
@@ -73,6 +73,8 @@ body {
 
 #side-panel .task-link {
     color: #333;
+    font-weight: bold;
+    font-family: fantasy;
 }
 
 .bottom-sticker-edge {
@@ -94,7 +96,8 @@ body {
 /* Style project table header links */
 #projectstatus th a {
     color: #999999;
-    font-weight: normal;
+    font-weight: bold;
+    font-family: fantasy;
 }
 
 #projectstatus th a:hover {
